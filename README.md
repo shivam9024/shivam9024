@@ -1,4 +1,5 @@
-![image](https://github.com/shivam9024/shivam9024/assets/110160188/d6e093db-2df4-43e4-9673-8e906c09bb44)<h1 align="center">Hi 👋, I'm Shivam Khandelwal</h1>
+[![MasterHead](https://media.licdn.com/dms/image/D4D16AQGIR8gI6XauLA/profile-displaybackgroundimage-shrink_350_1400/0/1682795949919?e=1690416000&v=beta&t=HEFe7xZPiGdTTVDG7AnGMDo0ButoZvdwXY8L1a7lPtk)]
+<h1 align="center">Hi 👋, I'm Shivam Khandelwal</h1>
 <h3 align="center">A passionate Data Engineer from India</h3>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivam9024&label=Profile%20views&color=0e75b6&style=flat" alt="shivam9024" /> </p>
