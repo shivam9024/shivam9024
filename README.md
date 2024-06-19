@@ -1,4 +1,4 @@
-[![MasterHead](https://media.licdn.com/dms/image/D4D16AQGIR8gI6XauLA/profile-displaybackgroundimage-shrink_350_1400/0/1682795949919?e=1690416000&v=beta&t=HEFe7xZPiGdTTVDG7AnGMDo0ButoZvdwXY8L1a7lPtk)]
+[![MasterHead](https://www.canva.com/design/DAGIkqSuA0Q/-MR5Z462lG_C2WZPA1AT_A/edit?utm_content=DAGIkqSuA0Q&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)]
 <h1 align="center">Hi 👋, I'm Shivam Khandelwal</h1>
 <h3 align="center">A passionate Data Engineer from India</h3>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
